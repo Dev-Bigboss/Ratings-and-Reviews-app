@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "projectOne",
-    "slug": "projectOne",
+    "name": "App reviewer",
+    "slug": "To make life easier while making a decision ",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,6 +14,12 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
+    "assets": [
+      "./assets/fonts/NunitoSans-Regular.ttf",
+      "./assets/fonts/NunitoSans-Bold.ttf"
+    ],
+    
+
     "assetBundlePatterns": [
       "**/*"
     ],
